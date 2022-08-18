@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "imba": "imbac -w app/imba -o app"
+  },
+  "devDependencies": {
+    "vite": "^3.0.8",
+    "vite-plugin-ruby": "^3.1.2"
+  },
+  "dependencies": {
+    "@inertiajs/inertia": "^0.11.0",
+    "imba": "^2.0.0-alpha.215",
+    "imba-inertia-adapter": "^2.0.0-alpha.211"
+  }
+}
